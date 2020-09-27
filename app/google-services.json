@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "52582888621",
+    "firebase_url": "https://fantasy-prediction-news.firebaseio.com",
+    "project_id": "fantasy-prediction-news",
+    "storage_bucket": "fantasy-prediction-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52582888621:android:6da259b0ceda79e126c224",
+        "android_client_info": {
+          "package_name": "com.e.fantasypredictionnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52582888621-8nnveer5tii3845lde7q4m4rj1geriq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.fantasypredictionnews",
+            "certificate_hash": "6c6f1ee77f5071773dfcae74d970b921facd735e"
+          }
+        },
+        {
+          "client_id": "52582888621-384nnj2ts8s5jnted9s52ukkpofqm2o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagSQAD1A8c-_mYxuljxI8pQvqpERwjFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52582888621-384nnj2ts8s5jnted9s52ukkpofqm2o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52582888621:android:059877271a56885726c224",
+        "android_client_info": {
+          "package_name": "com.sport.fantasypredictionnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52582888621-384nnj2ts8s5jnted9s52ukkpofqm2o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagSQAD1A8c-_mYxuljxI8pQvqpERwjFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52582888621-384nnj2ts8s5jnted9s52ukkpofqm2o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
